@@ -1,0 +1,11 @@
+{
+  "name": "novella",
+  "version": "1.0.0",
+  "description": "Ebook self bublishing website",
+  "main": "index.js",
+  "scripts": {
+      "dev": "cd backend; npm run serve & cd ..;  cd frontend; npm start"
+  },
+  "author": "Jonas Rudlang",
+  "license": "ISC"
+}
